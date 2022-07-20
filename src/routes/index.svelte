@@ -1,0 +1,1 @@
+<h1 class="text-pink-100">Ola</h1>
